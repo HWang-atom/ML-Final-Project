@@ -1,5 +1,5 @@
 # ML-Final-Project
-This is a project on handwritten recognition. The order of our process is: 
+This is our project on handwritten recognition. The notebooks consists of: 
 
 Proprocessing: 
 1. DataCleaning_EDA : exploratory data analysis, subsetting training and test data
